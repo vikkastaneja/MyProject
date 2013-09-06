@@ -37,8 +37,6 @@ public class Pythagorean {
                     temp.add(m.get(iarr[k]));
                     temp.add(m.get(iarr[j] + iarr[k]));
                     soriginal.add(temp);
-
-
                 }
             }
 
